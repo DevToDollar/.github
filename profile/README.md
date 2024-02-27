@@ -1,6 +1,6 @@
 ## Hi there, I'm Matt 👋
 
-DevToDollar is a template for creating mobile app startups. I help you reach your first $10k of revenue.
+DevToDollars is a template for creating mobile app startups. I help you reach your first $10k of revenue.
 
 ## A bit about me
 
