@@ -1,6 +1,6 @@
 ## Hi there, I'm Matt 👋
 
-DevToDollars is a template for creating mobile app startups. I help you reach your first $10k of revenue.
+DevToDollars is the world's most transparent dev agency
 
 ## A bit about me
 
