@@ -1,12 +1,19 @@
-## Hi there, I'm Matt 👋
+## Hi there
 
-DevToDollars is the world's most transparent dev agency
+DevToDollars is a tech cofounder as a service platform
 
-## A bit about me
+## A bit about the organization
+The original creator of the devtodollars boilerplate is Matthew Wong.
 
-I'm a former YC founder and because of some circumstances, I'm now starting from zero again. Throughout my journey, I went from $0 - $10k of revenue 2 separate times and before my third time I want to create a startup template for building apps (Flutter / Supabase) to expedite this process.
+He is a former YC founder. Throughout his journey, he went from $0 - $10k of revenue 2 separate times and before his third time he wanted to create a startup template for building apps (Flutter / Supabase) to expedite this process.
+
+Matthew currently holds an advisory role at devtodollars.
 
 [Twitter](https://twitter.com/IThinkWong)
+
+The boilerplate is currently being maintained by Amirali Azimi Tabrizi. He is also working full time as technical cofounder for devtodollars clients. 
+
+[Linkedin] https://www.linkedin.com/in/amirali-azimi-tabrizi/
 
 <!--
 
