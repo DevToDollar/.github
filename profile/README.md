@@ -13,7 +13,7 @@ Matthew currently holds an advisory role at devtodollars.
 
 The boilerplate is currently being maintained by Amirali Azimi Tabrizi. He is also working full time as technical cofounder for devtodollars clients. 
 
-[Linkedin] https://www.linkedin.com/in/amirali-azimi-tabrizi/
+[Linkedin](https://www.linkedin.com/in/amirali-azimi-tabrizi/)
 
 <!--
 
